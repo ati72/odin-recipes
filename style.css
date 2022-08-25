@@ -1,0 +1,29 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 16px;
+    background-color: #87cefa;
+    text-align: justify;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    color: darkolivegreen;
+}
+
+.recipe-link {
+    list-style: square;
+}
+
+.sub-title {
+    font-size: 25px;
+    color: #ff6347;
+    font-style: italic;
+}
